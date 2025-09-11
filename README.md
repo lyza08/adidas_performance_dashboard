@@ -1,4 +1,4 @@
-## Adidas Sales & Profitability Dashboard
+## Adidas Performance Dashboard
 ## 📌 Project Overview
 
 This project focuses on analyzing Adidas U.S. sales data to generate actionable business insights. Using only Microsoft Excel, I transformed raw sales data into a professional and interactive dashboard that highlights performance trends, profitability, and regional contributions.
