@@ -79,3 +79,9 @@ PivotTables & PivotCharts for analysis.
 Dashboard Design (KPI cards, slicers, layout planning).
 
 Data Visualization Best Practices (clear labeling, consistent formatting, storytelling through visuals).
+
+## 👤 Author
+
+Liza Oppong
+Data Analyst 
+
