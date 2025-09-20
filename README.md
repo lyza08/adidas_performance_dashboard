@@ -1,11 +1,11 @@
 ## Adidas Performance Dashboard (2020–2021)
-📌 Project Overview
+   ## Project Overview
 
 This project focuses on analysing Adidas U.S. sales data to generate actionable business insights. Using only Microsoft Excel, I transformed raw sales data into a professional and interactive dashboard that highlights performance trends, profitability, and regional contributions.
 
 The primary aim was to simulate a real-world business analytics project that allows stakeholders to monitor key performance indicators (KPIs) and make data-driven decisions.
 
-## 🎯 Business Questions Addressed
+## Business Questions Addressed
 
 Throughout the analysis, I sought to answer the following key questions:
 
@@ -17,10 +17,10 @@ How evenly are sales distributed across the U.S., and where are the growth hotsp
 
 What percentage contribution does each category, region, and retailer make to Adidas’s overall performance?
 
-## 🛠 Methodology
+## Methodology
 1. Data Cleaning & Preparation
 
-Checked dataset for duplicates, missing values, and inconsistencies.
+Checked the dataset for duplicates, missing values, and inconsistencies.
 
 Converted raw dataset into an Excel Table (Ctrl + T) to enable structured referencing.
 
@@ -44,7 +44,7 @@ Product Category
 
 State
 
-Used Conditional Formatting (Color Scales) to quickly identify high vs. low performers.
+Used Conditional Formatting (Colour Scales) to quickly identify high vs. low performers.
 
 3. Dashboard Development
 
@@ -60,7 +60,7 @@ Slicers → filters for Year, Region, and Retailer to allow dynamic exploration.
 
 Iconography (small icons above KPIs) for a professional, modern design.
 
-## 📊 Key Insights
+## Key Insights
 
 Total Sales & Units: Adidas achieved strong revenue across the U.S., with the West region contributing the largest share.
 
@@ -70,7 +70,7 @@ Category Performance: Footwear dominated sales, but Apparel provided higher rela
 
 Contribution Analysis: Internal “market share” breakdown showed that a few top retailers accounted for over half of total sales.
 
-## 📌Recommendations for Stakeholders
+## Recommendations for Stakeholders
 
 Based on the analysis of Adidas U.S. sales data, the following strategic recommendations are advised:
 
@@ -78,7 +78,7 @@ Focus on High-Performing Regions
 
 The West region emerged as the strongest contributor to sales and profitability. Adidas should strengthen its presence here through expanded retail partnerships and increased marketing spend.
 
-The South and Southeast regions, which show moderate contributions, could benefit from targeted promotions or localized product offerings.
+The South and Southeast regions, which show moderate contributions, could benefit from targeted promotions or localised product offerings.
 
 Strengthen Retailer Partnerships
 
@@ -92,7 +92,7 @@ Men’s Street Footwear is the best-performing product category. Expanding this 
 
 Women’s categories underperform relative to Men’s. Adidas should explore targeted campaigns, influencer collaborations, and community engagement to capture more market share.
 
-## Optimize Sales Channels
+## Optimise Sales Channels
 
 With in-store sales being the largest contributor, Adidas should maintain flagship stores as a strong brand touchpoint.
 
@@ -106,7 +106,7 @@ Some regions and retailers delivered above-average profit margins, while others 
 
 A continuous dashboard monitoring system is recommended. This will allow Adidas management to track KPIs in real time and quickly respond to shifts in regional demand, retailer performance, or product trends.
 
-## 🚀Tools & Skills Demonstrated
+## Tools & Skills Demonstrated
 
 Excel Data Cleaning (helper columns, structured references).
 
