@@ -1,11 +1,11 @@
-Adidas Performance Dashboard (2020–2021)
+## Adidas Performance Dashboard (2020–2021)
 📌 Project Overview
 
 This project focuses on analysing Adidas U.S. sales data to generate actionable business insights. Using only Microsoft Excel, I transformed raw sales data into a professional and interactive dashboard that highlights performance trends, profitability, and regional contributions.
 
 The primary aim was to simulate a real-world business analytics project that allows stakeholders to monitor key performance indicators (KPIs) and make data-driven decisions.
 
-🎯 Business Questions Addressed
+## 🎯 Business Questions Addressed
 
 Throughout the analysis, I sought to answer the following key questions:
 
@@ -17,7 +17,7 @@ How evenly are sales distributed across the U.S., and where are the growth hotsp
 
 What percentage contribution does each category, region, and retailer make to Adidas’s overall performance?
 
-🛠 Methodology
+## 🛠 Methodology
 1. Data Cleaning & Preparation
 
 Checked dataset for duplicates, missing values, and inconsistencies.
@@ -60,7 +60,7 @@ Slicers → filters for Year, Region, and Retailer to allow dynamic exploration.
 
 Iconography (small icons above KPIs) for a professional, modern design.
 
-📊 Key Insights
+## 📊 Key Insights
 
 Total Sales & Units: Adidas achieved strong revenue across the U.S., with the West region contributing the largest share.
 
@@ -70,7 +70,7 @@ Category Performance: Footwear dominated sales, but Apparel provided higher rela
 
 Contribution Analysis: Internal “market share” breakdown showed that a few top retailers accounted for over half of total sales.
 
-📌 Recommendations for Stakeholders
+## 📌Recommendations for Stakeholders
 
 Based on the analysis of Adidas U.S. sales data, the following strategic recommendations are advised:
 
@@ -92,21 +92,21 @@ Men’s Street Footwear is the best-performing product category. Expanding this 
 
 Women’s categories underperform relative to Men’s. Adidas should explore targeted campaigns, influencer collaborations, and community engagement to capture more market share.
 
-Optimize Sales Channels
+## Optimize Sales Channels
 
 With in-store sales being the largest contributor, Adidas should maintain flagship stores as a strong brand touchpoint.
 
 At the same time, online sales present major growth opportunities. Investment in digital marketing, personalized shopping experiences, and e-commerce partnerships should be prioritized.
 
-Profitability Focus
+## Profitability Focus
 
 Some regions and retailers delivered above-average profit margins, while others underperformed. Adidas should review cost structures and promotional spending in lower-margin areas and redirect resources to stronger markets.
 
-Data-Driven Growth Planning
+## Data-Driven Growth Planning
 
 A continuous dashboard monitoring system is recommended. This will allow Adidas management to track KPIs in real time and quickly respond to shifts in regional demand, retailer performance, or product trends.
 
-🚀 Tools & Skills Demonstrated
+## 🚀Tools & Skills Demonstrated
 
 Excel Data Cleaning (helper columns, structured references).
 
@@ -116,7 +116,7 @@ Dashboard Design (KPI cards, slicers, layout planning).
 
 Data Visualization Best Practices (clear labeling, consistent formatting, storytelling through visuals).
 
-👤 Author
+## 👤Author
 
 Liza Oppong
 Data Analyst
